@@ -12,4 +12,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - `all_cycles` function
 - `Cycle`, `Graph`, and `Path` types
 
-[Unreleased]: https://github.com/metamolecular/balsa/compare/v0.1.0...HEAD
+[Unreleased]: https://github.com/metamolecular/ciclo/compare/v0.1.0...HEAD
