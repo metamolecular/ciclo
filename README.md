@@ -4,7 +4,7 @@ Exhaustive cycle enumeration is a common requirement when working with graphs. M
 
 ## Versions
 
-Ciclo is not yet stable. Patch versions never introduce breaking changes, but minor/major versions probably will. For details about each versions changes, see the [CHANGELOG.md].
+Ciclo is not yet stable. Patch versions never introduce breaking changes, but minor/major versions probably will. For details about each versions changes, see the [CHANGELOG](CHANGELOG.md).
 
 ## License and Copyright
 
