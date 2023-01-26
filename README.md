@@ -8,4 +8,4 @@ Ciclo is not yet stable. Patch versions never introduce breaking changes, but mi
 
 ## License and Copyright
 
-Balsa is distributed under the terms of the MIT License. see [LICENSE](LICENSE) and [COPYRIGHT](COPYRIGHT) for details.
+Ciclo is distributed under the terms of the MIT License. see [LICENSE](LICENSE) and [COPYRIGHT](COPYRIGHT) for details.
